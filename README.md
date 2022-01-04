@@ -1,9 +1,17 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JavaScript & Frameworks/Libraries
-- 🌱 I’m currently learning ReactJS & NodeJS
+🔭 I’m currently working on JavaScript & Frameworks/Libraries
 
-- :mailbox: 
+🌱 I’m currently learning **ReactJS** & **NodeJS**
+
+📫 info@hbaydemir.com
+
+🔗 [hbaydemir.com](hbaydemir.com)
+
+🔗 [Social Accounts](https://linktr.ee/hbaydemir)
+
+
+
 
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
