@@ -8,7 +8,7 @@
 
 🔗 [hbaydemir.com](hbaydemir.com)
 
-🔗 [Social Accounts](https://linktr.ee/hbaydemir)
+🔗 [Social Accounts (linktr.ee)](https://linktr.ee/hbaydemir)
 
 
 
@@ -29,4 +29,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-![Hüseyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbaydemir&show_icons=true&theme=radical)
+![Hsüeyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbaydemir&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbaydemir&layout=compact)](https://github.com/hbaydemir/github-readme-stats)
+
+
+![](https://komarev.com/ghpvc/?username=hbaydemir&color=green)
