@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hüseyin Baydemir - Banner](header.png)
 
 🔭 I’m currently working on JavaScript & Frameworks/Libraries
 
