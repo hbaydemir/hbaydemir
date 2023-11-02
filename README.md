@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on JavaScript & Frameworks/Libraries
 
-🌱 I’m currently learning **ReactJS** & **NodeJS**
+🌱 I’m currently using **ReactJS** & **NodeJS**
 
 📫 info@hbaydemir.com
 
