@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="338" viewBox="0 0 880 338" role="img" aria-labelledby="title desc">
+  <title id="title">After Hours — Hüseyin Baydemir</title>
+  <desc id="desc">An arcade title screen with a pixel-art HB emblem and an animated signal strip.</desc>
+  <defs>
+    <linearGradient id="surface" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#21111c"/>
+      <stop offset="1" stop-color="#451c2e"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#e85a73" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#e85a73" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M16 0H0v16" fill="none" stroke="#ffa1b4" stroke-opacity=".10"/>
+    </pattern>
+    <pattern id="pixels" width="16" height="16" x="44" y="270" patternUnits="userSpaceOnUse">
+      <rect width="12" height="12" fill="#613044"/>
+    </pattern>
+    <clipPath id="frame"><rect width="880" height="338" rx="14"/></clipPath>
+  </defs>
+  <style>
+    .mono {font-family:ui-monospace,Consolas,monospace;letter-spacing:2px}
+    .wordmark {font:900 87px Arial,sans-serif;letter-spacing:-5px}
+    .signal {animation:sweep 4s steps(48,end) infinite}
+    .spark {animation:blink 2.4s steps(1,end) infinite}
+    @keyframes sweep {to {transform:translateX(768px)}}
+    @keyframes blink {50% {opacity:.32}}
+    @media(prefers-reduced-motion:reduce) {.signal,.spark {animation:none}}
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="880" height="338" fill="url(#surface)"/>
+    <ellipse cx="699" cy="148" rx="279" ry="191" fill="url(#glow)"/>
+    <path d="M542 58h295v175H542z" fill="url(#grid)"/>
+    <path d="M44 55h792M44 239h792" stroke="#925266"/>
+    <g class="mono" font-size="14" fill="#ffd489">
+      <text x="44" y="37">HB / AFTER HOURS</text>
+      <text x="836" y="37" text-anchor="end">PLAYER SELECT</text>
+    </g>
+    <g class="wordmark">
+      <text x="45" y="136" fill="#a93d5b">AFTER</text>
+      <text x="45" y="207" fill="#a93d5b">HOURS.</text>
+      <text x="40" y="130" fill="#fff1e9">AFTER</text>
+      <text x="40" y="201" fill="#fff1e9">HOURS.</text>
+    </g>
+    <text x="45" y="225" class="mono" font-size="15" fill="#f2b7ca">HÜSEYİN BAYDEMİR / @HBAYDEMIR</text>
+    <g transform="translate(604 76)" shape-rendering="crispEdges">
+      <path d="M0 16h16V0h152v16h16v112h-16v16H16v-16H0z" fill="#210f1c" stroke="#ae5469" stroke-width="2"/>
+      <path d="M16 24h152v96H16z" fill="#351628"/>
+      <path d="M32 40h12v24h24V40h12v64H68V76H44v28H32z" fill="#ff886d"/>
+      <path d="M92 40h44v8h12v20h-8v8h12v20h-12v8H92zm12 12v12h28V52zm0 24v16h32V76z" fill="#ffd489" fill-rule="evenodd"/>
+      <path d="M16 16h12m128 0h12M16 128h12m128 0h12" stroke="#ff886d" stroke-width="4"/>
+    </g>
+    <g class="spark" fill="#ffd489"><path d="M559 90h4v12h-4zM555 94h12v4h-12z"/><rect x="804" y="187" width="5" height="5"/></g>
+    <text x="44" y="261" class="mono" font-size="12" fill="#f2b7ca">SIGNAL STRIP</text>
+    <text x="836" y="261" class="mono" font-size="12" fill="#f2b7ca" text-anchor="end">ATTRACT MODE</text>
+    <rect x="44" y="270" width="780" height="46" fill="url(#pixels)"/>
+    <g fill="none" stroke-width="12" stroke-dasharray="12 4">
+      <path d="M60 276h12m36 0h28m52 0h12m100 0h28m68 0h12m100 0h44m68 0h12m84 0h28m52 0h12M76 308h28m68 0h12m68 0h28m116 0h28m52 0h12m84 0h28m68 0h12m84 0h28" stroke="#e46c68"/>
+      <path d="M44 292h12m52 0h44m84 0h12m52 0h28m68 0h28m68 0h44m68 0h12m100 0h28m68 0h12" stroke="#a54d68"/>
+    </g>
+    <rect class="signal" x="44" y="286" width="12" height="12" fill="#ffe2a7"/>
+  </g>
+</svg>
