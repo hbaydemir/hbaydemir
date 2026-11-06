@@ -1,4 +1,4 @@
-![After Hours — Sinyal İstasyonu, Ünite-07](assets/after-hours.svg)
+![Hüseyin Baydemir — Digital Experience Architect](assets/cyberpunk-profile.svg)
 
 # Hüseyin Baydemir
 
@@ -6,33 +6,15 @@
 
 > Bir şeyin nasıl çalıştığını anlamak, onu kullanmak kadar ilgimi çekiyor.
 
-[Artifacts kasası ↗](https://artifacts.baydemir.net/) · [Web sitesi ↗](https://hbaydemir.com) · [Sosyal bağlantılar ↗](https://linktr.ee/hbaydemir) · [E-posta](mailto:info@hbaydemir.com)
+[baydemir.net ↗](https://baydemir.net) · [Baydemir Artifacts ↗](https://artifacts.baydemir.net/) · [huseyin@baydemir.net](mailto:huseyin@baydemir.net)
 
-## ◆ Saha günlüğü
+## Projeler
 
-<details>
-<summary><code>LEVEL 01</code> &nbsp; <strong>axios-request</strong></summary>
+- **[axios-request](https://github.com/hbaydemir/axios-request)** · JavaScript’te Axios ile HTTP istekleri.
+- **[algortihms](https://github.com/hbaydemir/algortihms)** · Sıralama algoritmaları ve ikili arama ağacı alıştırmaları.
 
-JavaScript’te Axios ile HTTP isteği gönderme üzerine küçük bir çalışma.
+## Teknolojiler
 
-[Depoyu aç ↗](https://github.com/hbaydemir/axios-request)
-
-</details>
-
-<details>
-<summary><code>LEVEL 02</code> &nbsp; <strong>algortihms</strong></summary>
-
-Insertion sort, merge sort ve ikili arama ağacı üzerine adım adım alıştırmalar.
-
-[Depoyu aç ↗](https://github.com/hbaydemir/algortihms)
-
-</details>
-
-<details>
-<summary><code>LOADOUT</code> &nbsp; <strong>Tezgâhtaki araçlar</strong></summary>
-
-- **Web** · HTML, CSS, Sass, Bootstrap, JavaScript, React, Redux, jQuery
+- **Web** · JavaScript, React, Redux, HTML, CSS, Sass, Bootstrap, jQuery
 - **Backend** · Node.js, PHP, Laravel
 - **Veri** · PostgreSQL, MySQL, MongoDB
-
-</details>
