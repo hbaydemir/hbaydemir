@@ -1,34 +1,38 @@
-![After Hours — Hüseyin Baydemir, @hbaydemir](assets/after-hours.svg)
+![After Hours — Sinyal İstasyonu, Ünite-07](assets/after-hours.svg)
 
-I’m **Hüseyin Baydemir**. I build web apps, tools and side projects with JavaScript, React and Node.js.
+# Hüseyin Baydemir
 
-[Website](https://hbaydemir.com) · [Socials](https://linktr.ee/hbaydemir) · [Email](mailto:info@hbaydemir.com)
+**Digital Experience Architect**
 
-## ◆ Level select
+> Bir şeyin nasıl çalıştığını anlamak, onu kullanmak kadar ilgimi çekiyor.
+
+[Artifacts kasası ↗](https://artifacts.baydemir.net/) · [Web sitesi ↗](https://hbaydemir.com) · [Sosyal bağlantılar ↗](https://linktr.ee/hbaydemir) · [E-posta](mailto:info@hbaydemir.com)
+
+## ◆ Saha günlüğü
 
 <details>
 <summary><code>LEVEL 01</code> &nbsp; <strong>axios-request</strong></summary>
 
-A JavaScript repository for working with Axios requests.
+JavaScript’te Axios ile HTTP isteği gönderme üzerine küçük bir çalışma.
 
-[Open repository ↗](https://github.com/hbaydemir/axios-request)
+[Depoyu aç ↗](https://github.com/hbaydemir/axios-request)
 
 </details>
 
 <details>
 <summary><code>LEVEL 02</code> &nbsp; <strong>algortihms</strong></summary>
 
-A collection of algorithm practice exercises.
+Insertion sort, merge sort ve ikili arama ağacı üzerine adım adım alıştırmalar.
 
-[Open repository ↗](https://github.com/hbaydemir/algortihms)
+[Depoyu aç ↗](https://github.com/hbaydemir/algortihms)
 
 </details>
 
 <details>
-<summary><code>LOADOUT</code> &nbsp; <strong>Tools &amp; technologies</strong></summary>
+<summary><code>LOADOUT</code> &nbsp; <strong>Tezgâhtaki araçlar</strong></summary>
 
 - **Web** · HTML, CSS, Sass, Bootstrap, JavaScript, React, Redux, jQuery
 - **Backend** · Node.js, PHP, Laravel
-- **Data** · PostgreSQL, MySQL, MongoDB
+- **Veri** · PostgreSQL, MySQL, MongoDB
 
 </details>

@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="338" viewBox="0 0 880 338" role="img" aria-labelledby="title desc">
   <title id="title">After Hours — Hüseyin Baydemir</title>
-  <desc id="desc">An arcade title screen with a pixel-art HB emblem and an animated signal strip.</desc>
+  <desc id="desc">Sinyal İstasyonu’ndan esinlenen bir arcade ekranı. Piksel çizimli HB terminali, anten ve hareketli sinyal şeridi.</desc>
   <defs>
     <linearGradient id="surface" x2="1" y2="1" gradientUnits="objectBoundingBox">
-      <stop stop-color="#21111c"/>
-      <stop offset="1" stop-color="#451c2e"/>
+      <stop stop-color="#080d17"/>
+      <stop offset="1" stop-color="#102c44"/>
     </linearGradient>
     <radialGradient id="glow">
-      <stop stop-color="#e85a73" stop-opacity=".32"/>
-      <stop offset="1" stop-color="#e85a73" stop-opacity="0"/>
+      <stop stop-color="#32b6dd" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#32b6dd" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
-      <path d="M16 0H0v16" fill="none" stroke="#ffa1b4" stroke-opacity=".10"/>
+      <path d="M16 0H0v16" fill="none" stroke="#78ddf2" stroke-opacity=".12"/>
     </pattern>
     <pattern id="pixels" width="16" height="16" x="44" y="270" patternUnits="userSpaceOnUse">
-      <rect width="12" height="12" fill="#613044"/>
+      <rect width="12" height="12" fill="#1b3849"/>
     </pattern>
     <clipPath id="frame"><rect width="880" height="338" rx="14"/></clipPath>
   </defs>
@@ -31,33 +31,41 @@
     <rect width="880" height="338" fill="url(#surface)"/>
     <ellipse cx="699" cy="148" rx="279" ry="191" fill="url(#glow)"/>
     <path d="M542 58h295v175H542z" fill="url(#grid)"/>
-    <path d="M44 55h792M44 239h792" stroke="#925266"/>
-    <g class="mono" font-size="14" fill="#ffd489">
-      <text x="44" y="37">HB / AFTER HOURS</text>
-      <text x="836" y="37" text-anchor="end">PLAYER SELECT</text>
+    <path d="M44 55h792M44 239h792" stroke="#365568"/>
+    <g class="mono" font-size="14" fill="#ffbd75">
+      <text x="44" y="37">HB / SİNYAL İSTASYONU</text>
+      <text x="836" y="37" text-anchor="end">ÜNİTE-07</text>
     </g>
     <g class="wordmark">
-      <text x="45" y="136" fill="#a93d5b">AFTER</text>
-      <text x="45" y="207" fill="#a93d5b">HOURS.</text>
-      <text x="40" y="130" fill="#fff1e9">AFTER</text>
-      <text x="40" y="201" fill="#fff1e9">HOURS.</text>
+      <text x="45" y="136" fill="#23526b">AFTER</text>
+      <text x="45" y="207" fill="#23526b">HOURS.</text>
+      <text x="40" y="130" fill="#f3ebdb">AFTER</text>
+      <text x="40" y="201" fill="#f3ebdb">HOURS.</text>
     </g>
-    <text x="45" y="225" class="mono" font-size="15" fill="#f2b7ca">HÜSEYİN BAYDEMİR / @HBAYDEMIR</text>
-    <g transform="translate(604 76)" shape-rendering="crispEdges">
-      <path d="M0 16h16V0h152v16h16v112h-16v16H16v-16H0z" fill="#210f1c" stroke="#ae5469" stroke-width="2"/>
-      <path d="M16 24h152v96H16z" fill="#351628"/>
-      <path d="M32 40h12v24h24V40h12v64H68V76H44v28H32z" fill="#ff886d"/>
-      <path d="M92 40h44v8h12v20h-8v8h12v20h-12v8H92zm12 12v12h28V52zm0 24v16h32V76z" fill="#ffd489" fill-rule="evenodd"/>
-      <path d="M16 16h12m128 0h12M16 128h12m128 0h12" stroke="#ff886d" stroke-width="4"/>
+    <text x="45" y="225" class="mono" font-size="15" fill="#ffbd75">DIGITAL EXPERIENCE ARCHITECT</text>
+    <g shape-rendering="crispEdges">
+      <path d="M562 199h256l-26 18h-48l-22 13h-62l-22-13h-50z" fill="#080f19" stroke="#365568" stroke-width="2"/>
+      <path d="M576 201h232m-142 18h50" stroke="#6dddf0" stroke-width="2"/>
+      <path d="M584 198l19-106 19 106m-35-15h32m-29-16h26m-23-17h20m-17-16h14m-11-17h8" fill="none" stroke="#52768b" stroke-width="2"/>
+      <path d="M584 92h12V80h18V69h14v14h-9v13h-12v8h-23z" fill="#e6dac5"/>
+      <path d="M620 77h13v-8h8" fill="none" stroke="#ffbd75" stroke-width="2"/>
+      <rect class="spark" x="640" y="66" width="6" height="6" fill="#ffbd75"/>
+      <g transform="translate(640 116) scale(.55)">
+        <path d="M0 16h16V0h152v16h16v112h-16v16H16v-16H0z" fill="#0a121c" stroke="#b88d61" stroke-width="4"/>
+        <path d="M16 24h152v96H16z" fill="#153647"/>
+        <path d="M32 40h12v24h24V40h12v64H68V76H44v28H32z" fill="#75e5f2"/>
+        <path d="M92 40h44v8h12v20h-8v8h12v20h-12v8H92zm12 12v12h28V52zm0 24v16h32V76z" fill="#ffbd75" fill-rule="evenodd"/>
+      </g>
+      <path d="M766 132h34v62h-34z" fill="#101e2b" stroke="#52768b" stroke-width="2"/>
+      <path d="M774 143h18m-18 12h18m-18 12h18m-18 12h18" stroke="#6dddf0" stroke-width="3"/>
     </g>
-    <g class="spark" fill="#ffd489"><path d="M559 90h4v12h-4zM555 94h12v4h-12z"/><rect x="804" y="187" width="5" height="5"/></g>
-    <text x="44" y="261" class="mono" font-size="12" fill="#f2b7ca">SIGNAL STRIP</text>
-    <text x="836" y="261" class="mono" font-size="12" fill="#f2b7ca" text-anchor="end">ATTRACT MODE</text>
+    <text x="44" y="261" class="mono" font-size="12" fill="#92cfdf">TAŞIYICI SİNYAL</text>
+    <text x="824" y="261" class="mono" font-size="12" fill="#92cfdf" text-anchor="end">SAHA GÜNLÜĞÜ</text>
     <rect x="44" y="270" width="780" height="46" fill="url(#pixels)"/>
     <g fill="none" stroke-width="12" stroke-dasharray="12 4">
-      <path d="M60 276h12m36 0h28m52 0h12m100 0h28m68 0h12m100 0h44m68 0h12m84 0h28m52 0h12M76 308h28m68 0h12m68 0h28m116 0h28m52 0h12m84 0h28m68 0h12m84 0h28" stroke="#e46c68"/>
-      <path d="M44 292h12m52 0h44m84 0h12m52 0h28m68 0h28m68 0h44m68 0h12m100 0h28m68 0h12" stroke="#a54d68"/>
+      <path d="M60 276h12m36 0h28m52 0h12m100 0h28m68 0h12m100 0h44m68 0h12m84 0h28m52 0h12M76 308h28m68 0h12m68 0h28m116 0h28m52 0h12m84 0h28m68 0h12m84 0h28" stroke="#3587a1"/>
+      <path d="M44 292h12m52 0h44m84 0h12m52 0h28m68 0h28m68 0h44m68 0h12m100 0h28m68 0h12" stroke="#9a633f"/>
     </g>
-    <rect class="signal" x="44" y="286" width="12" height="12" fill="#ffe2a7"/>
+    <rect class="signal" x="44" y="286" width="12" height="12" fill="#9ef2ff"/>
   </g>
 </svg>
